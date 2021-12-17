@@ -198,3 +198,16 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+@media screen and (max-width: 992px) {
+    header nav {
+        float: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    header nav {
+        float: none;
+    }
+    
+}
