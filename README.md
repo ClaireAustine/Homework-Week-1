@@ -9,6 +9,4 @@ Then I removed the class identifiers for header and footer from the html.
 
 I added a media query to the CSS to fix an issue that happens on smaller windows and screens with the website.
 
-![](images/img1.png)
-![](images/img2.png)
-![](images/img3.png)
+
